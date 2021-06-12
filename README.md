@@ -1,5 +1,11 @@
-# 概要
+Counter
+===
+
+### 概要
 Reactを用いたカウントアプリ.
 
-# 使い方
-`yarn start`で起動.
+### 使い方
+```
+yarn install
+yarn start
+```
